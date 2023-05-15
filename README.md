@@ -3,7 +3,8 @@
 [![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/zhenangroup)
 [![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/zhenangroup)
 ## Senior Full-Stack Engineer
-
+- conda0905@gmail.com
+- live:.cid.a0094bcb15c4d1ef
 Hey 👋🏻,
 
 
