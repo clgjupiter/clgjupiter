@@ -18,13 +18,13 @@
 ### **Contact Me**
 
 <p align='center'>
-  <a href="https://t.me/condagroup">
+  <a href="https://t.me/cl_jupiter">
     <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/dgoMztLd0b00">
     <img src="https://img.shields.io/badge/skype-00AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:conda0905@gmail.com">
+  <a href="mailto:cesar.lie.dev@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
