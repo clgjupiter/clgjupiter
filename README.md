@@ -9,7 +9,7 @@
 </head>
 <body>
 
-### Hi!, 👋 I'm Conda 🙂
+### Hi!, 👋 I'm Cesar 🙂
 <div align="center">
 	<br>
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
