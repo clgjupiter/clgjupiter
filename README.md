@@ -15,11 +15,11 @@
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 	
 ### Contact Me
 
-<div align='center'>
+<div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://t.me/cl_jupiter">
     <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -33,7 +33,10 @@
 
 ### GitHub Status 😎
 
+<div>
 <a class='Most-used-languages' href='https://github.com/cljupiter'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=cljupiter&layout=compact' />
+</a>
+</div>
 </div>
 
 ### My skill sets. 🧰
