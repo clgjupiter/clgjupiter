@@ -15,6 +15,7 @@
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
 </div>
 
+<div style="display: flex; justify-content: space-between;">
 ### **Contact Me**
 
 <p align='center'>
@@ -32,7 +33,7 @@
 ### GitHub Status 😎
 
 <a class='Most-used-languages' href='https://github.com/cljupiter'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=cljupiter&layout=compact' />
-
+</div>
 ### My skill sets. 🧰
 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
