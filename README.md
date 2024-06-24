@@ -19,7 +19,7 @@
 	
 ### Contact Me
 
-<p align='center'>
+<div align='center'>
   <a href="https://t.me/cl_jupiter">
     <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -29,7 +29,7 @@
   <a href="mailto:cesar.lie.dev@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-</p>
+</div>
 
 ### GitHub Status 😎
 
