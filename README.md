@@ -15,7 +15,7 @@
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
 </div>
 
-<table width="100%">
+<table width="100%" style="border: none;">
   <tr>
     <td>
       <div align='left'>
