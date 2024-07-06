@@ -50,6 +50,7 @@
 ![Nuxt](https://img.shields.io/badge/nuxt-17202C.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-orange.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React%20Native-blue.svg?style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-green.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=%white)
 ![Nest.js](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
