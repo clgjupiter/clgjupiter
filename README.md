@@ -40,6 +40,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-294?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
@@ -47,14 +48,14 @@
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/nuxt-17202C.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-17202C.svg?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-orange.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React%20Native-blue.svg?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-green.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=%white)
 ![Nest.js](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Binance](https://img.shields.io/badge/binance-F0B90B.svg?style=for-the-badge&logo=binance&logoColor=white)
