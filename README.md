@@ -39,6 +39,7 @@
 ### My skill sets. 🧰
 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-294?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -54,6 +55,7 @@
 
 ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=%white)
 ![Nest.js](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
