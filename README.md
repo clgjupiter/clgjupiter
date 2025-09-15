@@ -24,7 +24,7 @@
   <a href="https://join.skype.com/invite/iP31p3c6iBOK">
     <img src="https://img.shields.io/badge/skype-00AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:clg.jupiter@gmail.com">
+  <a href="mailto:alexanderh.all90@outlook.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </div>
